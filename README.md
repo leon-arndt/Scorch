@@ -1,4 +1,4 @@
-# :fire: Scorch
+# :fire: Scorch - A Narrative Mystery Game
 
 ## :package: Info
 Made in Unity (Version 2017.2.0f3)
