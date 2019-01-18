@@ -5,6 +5,8 @@ Made in Unity (Version 2017.2.0f3)
 
 This project may not be republished for commercial use.
 
+Play the game on Steam! [Steam Download Link](https://store.steampowered.com/app/875740/Scorch/)
+
 ## :hammer: Credits
 Leon Arndt - Code and Music
 
