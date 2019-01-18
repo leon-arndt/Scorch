@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: f6f2dcb430414dc4cbaba416cec2c46c
+timeCreated: 1512424592
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Balks
+    100004: front_balk_1
+    100006: front_balk_2
+    100008: front_balk_3
+    100010: front_balk_4
+    100012: roof_balk_1
+    100014: roof_balk_10
+    100016: roof_balk_2
+    100018: roof_balk_3
+    100020: roof_balk_4
+    100022: roof_balk_5
+    100024: roof_balk_6
+    100026: roof_balk_7
+    100028: roof_balk_8
+    100030: roof_balk_9
+    100032: roofplate_inside
+    400000: Balks
+    400002: //RootNode
+    400004: front_balk_1
+    400006: front_balk_2
+    400008: front_balk_3
+    400010: front_balk_4
+    400012: roof_balk_1
+    400014: roof_balk_10
+    400016: roof_balk_2
+    400018: roof_balk_3
+    400020: roof_balk_4
+    400022: roof_balk_5
+    400024: roof_balk_6
+    400026: roof_balk_7
+    400028: roof_balk_8
+    400030: roof_balk_9
+    400032: roofplate_inside
+    2300000: front_balk_1
+    2300002: front_balk_2
+    2300004: front_balk_3
+    2300006: front_balk_4
+    2300008: roof_balk_1
+    2300010: roof_balk_10
+    2300012: roof_balk_2
+    2300014: roof_balk_3
+    2300016: roof_balk_4
+    2300018: roof_balk_5
+    2300020: roof_balk_6
+    2300022: roof_balk_7
+    2300024: roof_balk_8
+    2300026: roof_balk_9
+    2300028: roofplate_inside
+    3300000: front_balk_1
+    3300002: front_balk_2
+    3300004: front_balk_3
+    3300006: front_balk_4
+    3300008: roof_balk_1
+    3300010: roof_balk_10
+    3300012: roof_balk_2
+    3300014: roof_balk_3
+    3300016: roof_balk_4
+    3300018: roof_balk_5
+    3300020: roof_balk_6
+    3300022: roof_balk_7
+    3300024: roof_balk_8
+    3300026: roof_balk_9
+    3300028: roofplate_inside
+    4300000: front_balk_1
+    4300002: front_balk_2
+    4300004: front_balk_3
+    4300006: front_balk_4
+    4300008: roof_balk_1
+    4300010: roof_balk_2
+    4300012: roof_balk_3
+    4300014: roof_balk_4
+    4300016: roofplate_inside
+    4300018: roof_balk_5
+    4300020: roof_balk_6
+    4300022: roof_balk_7
+    4300024: roof_balk_8
+    4300026: roof_balk_9
+    4300028: roof_balk_10
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 02a0090d7aeeda24b88f2106fe2c9834, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 120
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

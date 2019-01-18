@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af404d8898010741bdea24718f0ff6f, type: 3}
+  m_Name: Answering Machine
+  m_EditorClassIdentifier: 
+  resourceName: Answering Machine
+  content: "Call 1: Susan Baker \\n Hello Mike, how  are you? I know that you\u2026
+    saw us\u2026 I was wondering if we could talk. Just don\u2019t do anything rushed.
+    Please. \\n \\nCall 2: Susan Baker \\n Hey Mike it\u2019s me again. You better
+    not snoop around anymore. You won\u2019t find out anything anyways. Just keep
+    to yourself Hill, I\u2019ve got a lot to lose here. \\n \\nCall 3: Jason Parker
+    \\n Hello Michael. It\u2019s Jason from Mountainside High School calling. Remember
+    me? It\u2019s been forever... Anyhow, I just wanted to see how you are, maybe
+    I could come by tomorrow? "
+  test: 0

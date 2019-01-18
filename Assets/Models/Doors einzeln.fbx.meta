@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 0e32bb081de1e5e43ba3fd606dd1c007
+timeCreated: 1511983087
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Door_Inside
+    100002: door_inside
+    100004: door_inside 1
+    100006: door_inside 2
+    100008: door_inside 3
+    100010: Door_Inside_Bathroom
+    100012: Door_Inside_Upstairs
+    100014: Door_Outside
+    100016: doorhandle
+    100018: doorhinge_bottom
+    100020: doorhinge_bottom 1
+    100022: doorhinge_bottom 2
+    100024: doorhinge_bottom 3
+    100026: doorhinge_top
+    100028: doorhinge_top 1
+    100030: doorhinge_top 2
+    100032: doorhinge_top 3
+    100034: Doorknob
+    100036: Doorknob1
+    100038: Doors
+    100040: //RootNode
+    100042: frame_inside
+    100044: frame_inside_bathroom
+    100046: frame_inside_upstairs
+    100048: handle
+    100050: knob1
+    100052: knob1 1
+    100054: knob3
+    100056: knob3 1
+    100058: lock
+    100060: middle
+    100062: middle 1
+    100064: polySurface17
+    100066: polySurface17 1
+    100068: polySurface18
+    100070: polySurface18 1
+    100072: thingintheback1
+    100074: thingintheback1 1
+    100076: thingintheback3
+    100078: thingintheback3 1
+    400000: Door_Inside
+    400002: door_inside
+    400004: door_inside 1
+    400006: door_inside 2
+    400008: door_inside 3
+    400010: Door_Inside_Bathroom
+    400012: Door_Inside_Upstairs
+    400014: Door_Outside
+    400016: doorhandle
+    400018: doorhinge_bottom
+    400020: doorhinge_bottom 1
+    400022: doorhinge_bottom 2
+    400024: doorhinge_bottom 3
+    400026: doorhinge_top
+    400028: doorhinge_top 1
+    400030: doorhinge_top 2
+    400032: doorhinge_top 3
+    400034: Doorknob
+    400036: Doorknob1
+    400038: Doors
+    400040: //RootNode
+    400042: frame_inside
+    400044: frame_inside_bathroom
+    400046: frame_inside_upstairs
+    400048: handle
+    400050: knob1
+    400052: knob1 1
+    400054: knob3
+    400056: knob3 1
+    400058: lock
+    400060: middle
+    400062: middle 1
+    400064: polySurface17
+    400066: polySurface17 1
+    400068: polySurface18
+    400070: polySurface18 1
+    400072: thingintheback1
+    400074: thingintheback1 1
+    400076: thingintheback3
+    400078: thingintheback3 1
+    2300000: door_inside
+    2300002: door_inside 1
+    2300004: door_inside 2
+    2300006: door_inside 3
+    2300008: doorhinge_bottom
+    2300010: doorhinge_bottom 1
+    2300012: doorhinge_bottom 2
+    2300014: doorhinge_bottom 3
+    2300016: doorhinge_top
+    2300018: doorhinge_top 1
+    2300020: doorhinge_top 2
+    2300022: doorhinge_top 3
+    2300024: frame_inside
+    2300026: frame_inside_bathroom
+    2300028: frame_inside_upstairs
+    2300030: handle
+    2300032: knob1
+    2300034: knob1 1
+    2300036: knob3
+    2300038: knob3 1
+    2300040: lock
+    2300042: middle
+    2300044: middle 1
+    2300046: polySurface17
+    2300048: polySurface17 1
+    2300050: polySurface18
+    2300052: polySurface18 1
+    2300054: thingintheback1
+    2300056: thingintheback1 1
+    2300058: thingintheback3
+    2300060: thingintheback3 1
+    3300000: door_inside
+    3300002: door_inside 1
+    3300004: door_inside 2
+    3300006: door_inside 3
+    3300008: doorhinge_bottom
+    3300010: doorhinge_bottom 1
+    3300012: doorhinge_bottom 2
+    3300014: doorhinge_bottom 3
+    3300016: doorhinge_top
+    3300018: doorhinge_top 1
+    3300020: doorhinge_top 2
+    3300022: doorhinge_top 3
+    3300024: frame_inside
+    3300026: frame_inside_bathroom
+    3300028: frame_inside_upstairs
+    3300030: handle
+    3300032: knob1
+    3300034: knob1 1
+    3300036: knob3
+    3300038: knob3 1
+    3300040: lock
+    3300042: middle
+    3300044: middle 1
+    3300046: polySurface17
+    3300048: polySurface17 1
+    3300050: polySurface18
+    3300052: polySurface18 1
+    3300054: thingintheback1
+    3300056: thingintheback1 1
+    3300058: thingintheback3
+    3300060: thingintheback3 1
+    4300000: frame_inside
+    4300002: doorhinge_top
+    4300004: doorhinge_bottom
+    4300006: door_inside
+    4300008: thingintheback1
+    4300010: knob1
+    4300012: thingintheback3
+    4300014: knob3
+    4300016: frame_inside_bathroom
+    4300018: middle
+    4300020: polySurface17
+    4300022: polySurface18
+    4300024: doorhinge_top
+    4300026: doorhinge_bottom
+    4300028: door_inside
+    4300030: frame_inside_upstairs
+    4300032: doorhinge_top
+    4300034: doorhinge_bottom
+    4300036: door_inside
+    4300038: thingintheback1
+    4300040: knob1
+    4300042: thingintheback3
+    4300044: knob3
+    4300046: doorhinge_top
+    4300048: doorhinge_bottom
+    4300050: door_inside
+    4300052: handle
+    4300054: lock
+    4300056: middle
+    4300058: polySurface17
+    4300060: polySurface18
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 02a0090d7aeeda24b88f2106fe2c9834, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 120
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af404d8898010741bdea24718f0ff6f, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: 
+  resourceName: Intro
+  content: "G: Good morning Gary. \\nP: Hello Chief. How are you? \\nG: Oh, I am fine.
+    How are YOU? Sounds like you\u2019re sober this time around. At least you\u2019re
+    not slurring like last week. \\nP: Uh, hehe. Yeah what happened last week was
+    quite unfortunate. But at least the party was amazing huh? \\nG: Very funny Gary.
+    Listen, you know that this case is your last chance to prove yourself? \\nP: Sure\u2026
+    So what happened here? \\nG: A man, Mike Hill, was found burned to death in his
+    shed. We want you to take a look at the crime scene. I know it\u2019s not easy
+    to solve this case in one day. But you\u2019ve done it before! I believe in you.
+    So, don\u2019t disappoint me. \\nP: I\u2019ll do my best. "
+  test: 0

@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 598857c63258ad84d8c6c4a1ecbf5304
+timeCreated: 1510660732
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: balk_1
+    100002: balk_10
+    100004: balk_2
+    100006: balk_3
+    100008: balk_4
+    100010: balk_5
+    100012: balk_6
+    100014: balk_7
+    100016: balk_8
+    100018: balk_9
+    100020: //RootNode
+    100022: Ground
+    100024: plank_1
+    100026: plank_2
+    100028: plank_3
+    100030: plank_4
+    100032: Wall_back
+    100034: wall_edge_left
+    100036: Wall_right
+    400000: balk_1
+    400002: balk_10
+    400004: balk_2
+    400006: balk_3
+    400008: balk_4
+    400010: balk_5
+    400012: balk_6
+    400014: balk_7
+    400016: balk_8
+    400018: balk_9
+    400020: //RootNode
+    400022: Ground
+    400024: plank_1
+    400026: plank_2
+    400028: plank_3
+    400030: plank_4
+    400032: Wall_back
+    400034: wall_edge_left
+    400036: Wall_right
+    2300000: balk_1
+    2300002: balk_10
+    2300004: balk_2
+    2300006: balk_3
+    2300008: balk_4
+    2300010: balk_5
+    2300012: balk_6
+    2300014: balk_7
+    2300016: balk_8
+    2300018: balk_9
+    2300020: Ground
+    2300022: plank_1
+    2300024: plank_2
+    2300026: plank_3
+    2300028: plank_4
+    2300030: Wall_back
+    2300032: wall_edge_left
+    2300034: Wall_right
+    3300000: balk_1
+    3300002: balk_10
+    3300004: balk_2
+    3300006: balk_3
+    3300008: balk_4
+    3300010: balk_5
+    3300012: balk_6
+    3300014: balk_7
+    3300016: balk_8
+    3300018: balk_9
+    3300020: Ground
+    3300022: plank_1
+    3300024: plank_2
+    3300026: plank_3
+    3300028: plank_4
+    3300030: Wall_back
+    3300032: wall_edge_left
+    3300034: Wall_right
+    4300000: Ground
+    4300002: Wall_right
+    4300004: Wall_back
+    4300006: wall_edge_left
+    4300008: balk_1
+    4300010: balk_2
+    4300012: balk_3
+    4300014: balk_4
+    4300016: balk_5
+    4300018: balk_6
+    4300020: balk_7
+    4300022: balk_8
+    4300024: balk_9
+    4300026: balk_10
+    4300028: plank_1
+    4300030: plank_2
+    4300032: plank_3
+    4300034: plank_4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 02a0090d7aeeda24b88f2106fe2c9834, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 120
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

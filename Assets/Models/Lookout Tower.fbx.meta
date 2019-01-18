@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 8b22820e0a33258479869a84cd4b38cd
+timeCreated: 1510066788
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back_Plane
+    100002: Ground
+    100004: Ladder
+    100006: Ladder_Left
+    100008: Ladder_Right
+    100010: Ladder_step_1
+    100012: Ladder_step_2
+    100014: Ladder_step_3
+    100016: Ladder_step_4
+    100018: Ladder_step_5
+    100020: Ladder_step_6
+    100022: Ladder_step_7
+    100024: Ladder_step_8
+    100026: //RootNode
+    100028: Main_1
+    100030: Main_2
+    100032: Main_3
+    100034: Main_4
+    100036: pCube230
+    100038: pCube231
+    100040: pCube240
+    100042: pCube241
+    100044: pCube242
+    100046: pCube243
+    100048: pCube244
+    100050: pCube245
+    100052: Roof
+    100054: Side_Plane_left
+    100056: Side_Plane_right
+    100058: Sitting_bench
+    100060: struts
+    100062: Top_1
+    100064: Top_2
+    100066: Top_3
+    100068: transform10
+    100070: transform11
+    400000: Back_Plane
+    400002: Ground
+    400004: Ladder
+    400006: Ladder_Left
+    400008: Ladder_Right
+    400010: Ladder_step_1
+    400012: Ladder_step_2
+    400014: Ladder_step_3
+    400016: Ladder_step_4
+    400018: Ladder_step_5
+    400020: Ladder_step_6
+    400022: Ladder_step_7
+    400024: Ladder_step_8
+    400026: //RootNode
+    400028: Main_1
+    400030: Main_2
+    400032: Main_3
+    400034: Main_4
+    400036: pCube230
+    400038: pCube231
+    400040: pCube240
+    400042: pCube241
+    400044: pCube242
+    400046: pCube243
+    400048: pCube244
+    400050: pCube245
+    400052: Roof
+    400054: Side_Plane_left
+    400056: Side_Plane_right
+    400058: Sitting_bench
+    400060: struts
+    400062: Top_1
+    400064: Top_2
+    400066: Top_3
+    400068: transform10
+    400070: transform11
+    2300000: Back_Plane
+    2300002: Ground
+    2300004: Ladder_Left
+    2300006: Ladder_Right
+    2300008: Ladder_step_1
+    2300010: Ladder_step_2
+    2300012: Ladder_step_3
+    2300014: Ladder_step_4
+    2300016: Ladder_step_5
+    2300018: Ladder_step_6
+    2300020: Ladder_step_7
+    2300022: Ladder_step_8
+    2300024: Main_1
+    2300026: Main_2
+    2300028: Main_3
+    2300030: Main_4
+    2300032: pCube240
+    2300034: pCube241
+    2300036: pCube242
+    2300038: pCube243
+    2300040: pCube244
+    2300042: pCube245
+    2300044: Roof
+    2300046: Side_Plane_left
+    2300048: Side_Plane_right
+    2300050: Sitting_bench
+    2300052: Top_1
+    2300054: Top_2
+    2300056: Top_3
+    3300000: Back_Plane
+    3300002: Ground
+    3300004: Ladder_Left
+    3300006: Ladder_Right
+    3300008: Ladder_step_1
+    3300010: Ladder_step_2
+    3300012: Ladder_step_3
+    3300014: Ladder_step_4
+    3300016: Ladder_step_5
+    3300018: Ladder_step_6
+    3300020: Ladder_step_7
+    3300022: Ladder_step_8
+    3300024: Main_1
+    3300026: Main_2
+    3300028: Main_3
+    3300030: Main_4
+    3300032: pCube240
+    3300034: pCube241
+    3300036: pCube242
+    3300038: pCube243
+    3300040: pCube244
+    3300042: pCube245
+    3300044: Roof
+    3300046: Side_Plane_left
+    3300048: Side_Plane_right
+    3300050: Sitting_bench
+    3300052: Top_1
+    3300054: Top_2
+    3300056: Top_3
+    4300000: Ground
+    4300002: Back_Plane
+    4300004: Side_Plane_right
+    4300006: Side_Plane_left
+    4300008: Sitting_bench
+    4300010: Roof
+    4300012: pCube240
+    4300014: pCube241
+    4300016: pCube242
+    4300018: pCube243
+    4300020: pCube244
+    4300022: pCube245
+    4300024: Top_3
+    4300026: Top_2
+    4300028: Top_1
+    4300030: Main_4
+    4300032: Main_3
+    4300034: Main_2
+    4300036: Main_1
+    4300038: Ladder_Right
+    4300040: Ladder_Left
+    4300042: Ladder_step_1
+    4300044: Ladder_step_2
+    4300046: Ladder_step_3
+    4300048: Ladder_step_4
+    4300050: Ladder_step_5
+    4300052: Ladder_step_6
+    4300054: Ladder_step_7
+    4300056: Ladder_step_8
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 02a0090d7aeeda24b88f2106fe2c9834, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 120
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

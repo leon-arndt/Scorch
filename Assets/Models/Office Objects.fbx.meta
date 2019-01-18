@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 0df72fdaba171194c82c060cc87bd324
+timeCreated: 1512423860
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Book_With_Rings
+    100002: computer
+    100004: Folder
+    100006: Folder1
+    100008: Folder2
+    100010: Folder3
+    100012: mug_office
+    100014: noteonscreen
+    100016: //RootNode
+    100018: paper1
+    100020: paper2
+    100022: pc_keyboard_hp
+    100024: pc_keyboard_lp
+    100026: PC_Screen
+    100028: pc_screen
+    100030: pc_screen_stand
+    100032: pcmouse
+    100034: pCube270
+    100036: pCube270 1
+    100038: pCube270 2
+    100040: pCube270 3
+    100042: pCube271
+    100044: pCube271 1
+    100046: pCube271 2
+    100048: pCube271 3
+    100050: pCube272
+    100052: pen1
+    100054: pen2
+    100056: pen3
+    100058: pen4
+    100060: pen5
+    100062: pen6
+    100064: pTorus1
+    100066: pTorus1 1
+    100068: pTorus1 2
+    100070: pTorus1 3
+    100072: pTorus2
+    100074: pTorus2 1
+    100076: pTorus2 2
+    100078: pTorus2 3
+    100080: pTorus3
+    100082: pTorus4
+    100084: pTorus5
+    100086: pTorus6
+    100088: pTorus7
+    100090: pTorus8
+    400000: Book_With_Rings
+    400002: computer
+    400004: Folder
+    400006: Folder1
+    400008: Folder2
+    400010: Folder3
+    400012: mug_office
+    400014: noteonscreen
+    400016: //RootNode
+    400018: paper1
+    400020: paper2
+    400022: pc_keyboard_hp
+    400024: pc_keyboard_lp
+    400026: PC_Screen
+    400028: pc_screen
+    400030: pc_screen_stand
+    400032: pcmouse
+    400034: pCube270
+    400036: pCube270 1
+    400038: pCube270 2
+    400040: pCube270 3
+    400042: pCube271
+    400044: pCube271 1
+    400046: pCube271 2
+    400048: pCube271 3
+    400050: pCube272
+    400052: pen1
+    400054: pen2
+    400056: pen3
+    400058: pen4
+    400060: pen5
+    400062: pen6
+    400064: pTorus1
+    400066: pTorus1 1
+    400068: pTorus1 2
+    400070: pTorus1 3
+    400072: pTorus2
+    400074: pTorus2 1
+    400076: pTorus2 2
+    400078: pTorus2 3
+    400080: pTorus3
+    400082: pTorus4
+    400084: pTorus5
+    400086: pTorus6
+    400088: pTorus7
+    400090: pTorus8
+    2300000: computer
+    2300002: mug_office
+    2300004: noteonscreen
+    2300006: paper1
+    2300008: paper2
+    2300010: pc_keyboard_hp
+    2300012: pc_keyboard_lp
+    2300014: pc_screen
+    2300016: pc_screen_stand
+    2300018: pcmouse
+    2300020: pCube270
+    2300022: pCube270 1
+    2300024: pCube270 2
+    2300026: pCube270 3
+    2300028: pCube271
+    2300030: pCube271 1
+    2300032: pCube271 2
+    2300034: pCube271 3
+    2300036: pCube272
+    2300038: pen1
+    2300040: pen2
+    2300042: pen3
+    2300044: pen4
+    2300046: pen5
+    2300048: pen6
+    2300050: pTorus1
+    2300052: pTorus1 1
+    2300054: pTorus1 2
+    2300056: pTorus1 3
+    2300058: pTorus2
+    2300060: pTorus2 1
+    2300062: pTorus2 2
+    2300064: pTorus2 3
+    2300066: pTorus3
+    2300068: pTorus4
+    2300070: pTorus5
+    2300072: pTorus6
+    2300074: pTorus7
+    2300076: pTorus8
+    3300000: computer
+    3300002: mug_office
+    3300004: noteonscreen
+    3300006: paper1
+    3300008: paper2
+    3300010: pc_keyboard_hp
+    3300012: pc_keyboard_lp
+    3300014: pc_screen
+    3300016: pc_screen_stand
+    3300018: pcmouse
+    3300020: pCube270
+    3300022: pCube270 1
+    3300024: pCube270 2
+    3300026: pCube270 3
+    3300028: pCube271
+    3300030: pCube271 1
+    3300032: pCube271 2
+    3300034: pCube271 3
+    3300036: pCube272
+    3300038: pen1
+    3300040: pen2
+    3300042: pen3
+    3300044: pen4
+    3300046: pen5
+    3300048: pen6
+    3300050: pTorus1
+    3300052: pTorus1 1
+    3300054: pTorus1 2
+    3300056: pTorus1 3
+    3300058: pTorus2
+    3300060: pTorus2 1
+    3300062: pTorus2 2
+    3300064: pTorus2 3
+    3300066: pTorus3
+    3300068: pTorus4
+    3300070: pTorus5
+    3300072: pTorus6
+    3300074: pTorus7
+    3300076: pTorus8
+    4300000: mug_office
+    4300002: pen1
+    4300004: pen2
+    4300006: pen3
+    4300008: pen4
+    4300010: pCube270
+    4300012: pTorus1
+    4300014: pTorus2
+    4300016: pCube271
+    4300018: paper1
+    4300020: paper2
+    4300022: pen5
+    4300024: pCube270
+    4300026: pTorus1
+    4300028: pTorus2
+    4300030: pCube271
+    4300032: pTorus8
+    4300034: pTorus7
+    4300036: pTorus6
+    4300038: pTorus5
+    4300040: pTorus4
+    4300042: pTorus3
+    4300044: pCube272
+    4300046: pCube270
+    4300048: pTorus1
+    4300050: pTorus2
+    4300052: pCube271
+    4300054: pCube270
+    4300056: pTorus1
+    4300058: pTorus2
+    4300060: pCube271
+    4300062: pen6
+    4300064: pcmouse
+    4300066: pc_keyboard_hp
+    4300068: pc_keyboard_lp
+    4300070: noteonscreen
+    4300072: computer
+    4300074: pc_screen_stand
+    4300076: pc_screen
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 02a0090d7aeeda24b88f2106fe2c9834, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 120
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

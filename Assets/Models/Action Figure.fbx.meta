@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 839ef92601820834fbb831dda73fa848
+timeCreated: 1510404888
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bow
+    100004: geo_arm_hand_L
+    100006: geo_arm_hand_R
+    100008: geo_arm_lower_L
+    100010: geo_arm_lower_R
+    100012: geo_arm_upper_L
+    100014: geo_arm_upper_R
+    100016: geo_belt
+    100018: geo_belt_decoration
+    100020: geo_leg_lower_L
+    100022: geo_leg_lower_R
+    100024: geo_leg_upper_L
+    100026: geo_leg_upper_R
+    100028: geo_shoulderpad
+    100030: geo_torso
+    100032: grp_arm_L
+    100034: grp_arm_R
+    100036: Head
+    100038: Ribbon
+    100040: Ribbon_Tag
+    100042: Tag
+    400000: //RootNode
+    400002: Bow
+    400004: geo_arm_hand_L
+    400006: geo_arm_hand_R
+    400008: geo_arm_lower_L
+    400010: geo_arm_lower_R
+    400012: geo_arm_upper_L
+    400014: geo_arm_upper_R
+    400016: geo_belt
+    400018: geo_belt_decoration
+    400020: geo_leg_lower_L
+    400022: geo_leg_lower_R
+    400024: geo_leg_upper_L
+    400026: geo_leg_upper_R
+    400028: geo_shoulderpad
+    400030: geo_torso
+    400032: grp_arm_L
+    400034: grp_arm_R
+    400036: Head
+    400038: Ribbon
+    400040: Ribbon_Tag
+    400042: Tag
+    2300000: Bow
+    2300002: geo_arm_hand_L
+    2300004: geo_arm_hand_R
+    2300006: geo_arm_lower_L
+    2300008: geo_arm_lower_R
+    2300010: geo_arm_upper_L
+    2300012: geo_arm_upper_R
+    2300014: geo_belt
+    2300016: geo_belt_decoration
+    2300018: geo_leg_lower_L
+    2300020: geo_leg_lower_R
+    2300022: geo_leg_upper_L
+    2300024: geo_leg_upper_R
+    2300026: geo_shoulderpad
+    2300028: geo_torso
+    2300030: Head
+    2300032: Ribbon
+    2300034: Ribbon_Tag
+    2300036: Tag
+    3300000: Bow
+    3300002: geo_arm_hand_L
+    3300004: geo_arm_hand_R
+    3300006: geo_arm_lower_L
+    3300008: geo_arm_lower_R
+    3300010: geo_arm_upper_L
+    3300012: geo_arm_upper_R
+    3300014: geo_belt
+    3300016: geo_belt_decoration
+    3300018: geo_leg_lower_L
+    3300020: geo_leg_lower_R
+    3300022: geo_leg_upper_L
+    3300024: geo_leg_upper_R
+    3300026: geo_shoulderpad
+    3300028: geo_torso
+    3300030: Head
+    3300032: Ribbon
+    3300034: Ribbon_Tag
+    3300036: Tag
+    4300000: Ribbon
+    4300002: Bow
+    4300004: Head
+    4300006: Tag
+    4300008: Ribbon_Tag
+    4300010: geo_arm_hand_R
+    4300012: geo_arm_lower_R
+    4300014: geo_arm_upper_R
+    4300016: geo_arm_hand_L
+    4300018: geo_arm_lower_L
+    4300020: geo_arm_upper_L
+    4300022: geo_leg_upper_R
+    4300024: geo_leg_lower_R
+    4300026: geo_leg_upper_L
+    4300028: geo_leg_lower_L
+    4300030: geo_belt_decoration
+    4300032: geo_belt
+    4300034: geo_shoulderpad
+    4300036: geo_torso
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 02a0090d7aeeda24b88f2106fe2c9834, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

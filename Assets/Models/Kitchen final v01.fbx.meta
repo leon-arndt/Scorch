@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 49484c7f7cf3af7408e5509b9beaa068
+timeCreated: 1510052015
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Counter_small
+    100002: Countertop
+    100004: Edge_counter
+    100006: Fridge
+    100008: //RootNode
+    100010: Oven1
+    100012: pCube147
+    100014: pCube164
+    100016: pCube165
+    100018: pCube166
+    100020: pCube167
+    100022: pCube169
+    100024: pCube170
+    100026: pCube172
+    100028: pCube173
+    100030: pCube174
+    100032: pCube175
+    100034: pCube176
+    100036: pCube177
+    100038: pCube178
+    100040: pCube179
+    100042: pCube182
+    100044: pCube183
+    100046: pCube184
+    100048: pCylinder12
+    100050: pCylinder13
+    100052: pCylinder14
+    100054: pCylinder15
+    100056: pCylinder16
+    100058: pCylinder17
+    100060: pCylinder17 1
+    100062: pCylinder17 2
+    100064: pCylinder17 3
+    100066: pCylinder17 4
+    100068: pCylinder17 5
+    100070: pCylinder18
+    100072: pCylinder19
+    100074: pCylinder20
+    100076: pCylinder21
+    100078: pCylinder22
+    100080: polySurface10
+    100082: polySurface11
+    100084: polySurface12
+    100086: polySurface13
+    100088: polySurface14
+    100090: polySurface9
+    100092: Sink1
+    100094: SinkNeu
+    100096: Stuhl
+    100098: Table
+    400000: Counter_small
+    400002: Countertop
+    400004: Edge_counter
+    400006: Fridge
+    400008: //RootNode
+    400010: Oven1
+    400012: pCube147
+    400014: pCube164
+    400016: pCube165
+    400018: pCube166
+    400020: pCube167
+    400022: pCube169
+    400024: pCube170
+    400026: pCube172
+    400028: pCube173
+    400030: pCube174
+    400032: pCube175
+    400034: pCube176
+    400036: pCube177
+    400038: pCube178
+    400040: pCube179
+    400042: pCube182
+    400044: pCube183
+    400046: pCube184
+    400048: pCylinder12
+    400050: pCylinder13
+    400052: pCylinder14
+    400054: pCylinder15
+    400056: pCylinder16
+    400058: pCylinder17
+    400060: pCylinder17 1
+    400062: pCylinder17 2
+    400064: pCylinder17 3
+    400066: pCylinder17 4
+    400068: pCylinder17 5
+    400070: pCylinder18
+    400072: pCylinder19
+    400074: pCylinder20
+    400076: pCylinder21
+    400078: pCylinder22
+    400080: polySurface10
+    400082: polySurface11
+    400084: polySurface12
+    400086: polySurface13
+    400088: polySurface14
+    400090: polySurface9
+    400092: Sink1
+    400094: SinkNeu
+    400096: Stuhl
+    400098: Table
+    2300000: Counter_small
+    2300002: Countertop
+    2300004: Edge_counter
+    2300006: Fridge
+    2300008: Oven1
+    2300010: pCube147
+    2300012: pCube164
+    2300014: pCube165
+    2300016: pCube166
+    2300018: pCube167
+    2300020: pCube169
+    2300022: pCube170
+    2300024: pCube172
+    2300026: pCube173
+    2300028: pCube174
+    2300030: pCube175
+    2300032: pCube176
+    2300034: pCube177
+    2300036: pCube178
+    2300038: pCube179
+    2300040: pCube182
+    2300042: pCube183
+    2300044: pCube184
+    2300046: pCylinder12
+    2300048: pCylinder13
+    2300050: pCylinder14
+    2300052: pCylinder15
+    2300054: pCylinder16
+    2300056: pCylinder17
+    2300058: pCylinder17 1
+    2300060: pCylinder17 2
+    2300062: pCylinder17 3
+    2300064: pCylinder17 4
+    2300066: pCylinder17 5
+    2300068: pCylinder18
+    2300070: pCylinder19
+    2300072: pCylinder20
+    2300074: pCylinder21
+    2300076: pCylinder22
+    2300078: polySurface10
+    2300080: polySurface11
+    2300082: polySurface12
+    2300084: polySurface13
+    2300086: polySurface14
+    2300088: polySurface9
+    2300090: Sink1
+    2300092: SinkNeu
+    2300094: Stuhl
+    2300096: Table
+    3300000: Counter_small
+    3300002: Countertop
+    3300004: Edge_counter
+    3300006: Fridge
+    3300008: Oven1
+    3300010: pCube147
+    3300012: pCube164
+    3300014: pCube165
+    3300016: pCube166
+    3300018: pCube167
+    3300020: pCube169
+    3300022: pCube170
+    3300024: pCube172
+    3300026: pCube173
+    3300028: pCube174
+    3300030: pCube175
+    3300032: pCube176
+    3300034: pCube177
+    3300036: pCube178
+    3300038: pCube179
+    3300040: pCube182
+    3300042: pCube183
+    3300044: pCube184
+    3300046: pCylinder12
+    3300048: pCylinder13
+    3300050: pCylinder14
+    3300052: pCylinder15
+    3300054: pCylinder16
+    3300056: pCylinder17
+    3300058: pCylinder17 1
+    3300060: pCylinder17 2
+    3300062: pCylinder17 3
+    3300064: pCylinder17 4
+    3300066: pCylinder17 5
+    3300068: pCylinder18
+    3300070: pCylinder19
+    3300072: pCylinder20
+    3300074: pCylinder21
+    3300076: pCylinder22
+    3300078: polySurface10
+    3300080: polySurface11
+    3300082: polySurface12
+    3300084: polySurface13
+    3300086: polySurface14
+    3300088: polySurface9
+    3300090: Sink1
+    3300092: SinkNeu
+    3300094: Stuhl
+    3300096: Table
+    4300000: Oven1
+    4300002: pCube164
+    4300004: pCube147
+    4300006: pCube165
+    4300008: pCube166
+    4300010: pCube167
+    4300012: pCylinder16
+    4300014: pCylinder17
+    4300016: pCylinder18
+    4300018: pCylinder17
+    4300020: pCylinder19
+    4300022: pCylinder17
+    4300024: pCylinder20
+    4300026: pCylinder17
+    4300028: pCylinder21
+    4300030: pCylinder17
+    4300032: pCylinder22
+    4300034: pCylinder17
+    4300036: pCylinder12
+    4300038: pCylinder13
+    4300040: pCylinder14
+    4300042: pCylinder15
+    4300044: Edge_counter
+    4300046: pCube182
+    4300048: pCube183
+    4300050: Fridge
+    4300052: polySurface10
+    4300054: polySurface9
+    4300056: Counter_small
+    4300058: polySurface12
+    4300060: polySurface13
+    4300062: polySurface14
+    4300064: polySurface11
+    4300066: Countertop
+    4300068: Sink1
+    4300070: pCube170
+    4300072: pCube169
+    4300074: SinkNeu
+    4300076: pCube172
+    4300078: pCube174
+    4300080: pCube175
+    4300082: pCube176
+    4300084: pCube177
+    4300086: pCube178
+    4300088: pCube173
+    4300090: pCube179
+    4300092: pCube184
+    4300094: Stuhl
+    4300096: Table
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 02a0090d7aeeda24b88f2106fe2c9834, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 120
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

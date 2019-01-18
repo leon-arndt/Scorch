@@ -1,0 +1,160 @@
+﻿ID,Name,G,Sentence,Time,
+0,Introdialogue,Gary Price,*Hebt den Anruf ab*,2.05,2.35
+1,Introdialogue,Chief Gonzales,"Guten Morgen, Gary.",0.85,1.15
+2,Introdialogue,Gary Price,"Hallo, Frau Bezirksinspektor. Wie geht's dir?",1.23,1.53
+3,Introdialogue,Chief Gonzales,"Oh, mir geht's gut. Aber was ist mit DIR?",2.18,2.48
+4,Introdialogue,Chief Gonzales,Klingt so als wärst du dieses Mal nüchtern.,2.29,2.59
+5,Introdialogue,Chief Gonzales,Wenigstens brabbelst du nicht so wie letzte Woche.,2.23,2.53
+6,Introdialogue,Gary Price,Achja deswegen…,1,1
+7,Introdialogue,Gary Price,"Was letzte Woche passiert ist, war etwas unglücklich.",2.15,2.15
+8,Introdialogue,Gary Price,Aber… immerhin war die Party super na?,1.79,2.09
+9,Introdialogue,Chief Gonzales,Sehr witzig Gary.,1.5,1.18
+10,Introdialogue,Chief Gonzales,"Hör zu…dir ist bewusst, dass dieser Fall deine letzte Chance ist, dich zu beweisen?",4.7,4.4
+12,Introdialogue,Gary Price,Hm… Klar.,1.5,1.8
+13,Introdialogue,Gary Price,"Also, was ist hier vorgefallen?",1.5,1.8
+15,Introdialogue,Chief Gonzales,"Ein Mann, Mike Hill,dessen verbrannten Überreste wurden in seinem Arbeitsschuppen gefunden.",3.43,3.73
+16,Introdialogue,Gary Price,"Dein Auftrag ist, sich das ganze genauer anzusehen.",2.08,2.38
+17,Introdialogue,Chief Gonzales,Hm… Alles klar.,0.88,1.18
+18,Introdialogue,Chief Gonzales,Ich weiß es ist nicht einfach diesen Fall an einem Tag zu lösen.,2.5,2.7
+19,Introdialogue,Chief Gonzales,Aber du hast es zuvor schon geschafft!,1.3,1.5
+20,Introdialogue,Chief Gonzales,Ich glaube an dich.,1.17,1.17
+21,Introdialogue,Gary Price,Also enttäuscht du mich besser nicht.,1.7,2
+22,Introdialogue,Gary Price,"Klar, ich werd'  mein Bestes geben.",2,2.3
+23,Introdialogue,Gary Price,*Legt auf*,1.2,1.5
+24,Alcoholproblem,Gary Price,*Hebt den Anruf ab*,1.95,2.35
+25,Alcoholproblem,Chief Gonzales,"Hallo Price, schon lange nichts mehr von dir gehört.",2.3,2.7
+26,Alcoholproblem,Gary Price,"Ich hab hier alles unter Kontrolle, klar?",2.2,2.6
+27,Alcoholproblem,Chief Gonzales,Scheint so als hättest du Schwierigkeiten dich wieder einzufinden.,2.9,3.3
+29,Alcoholproblem,Chief Gonzales,"Ich hab' meinen Hals für dich hingehalten,",1.12,1.52
+30,Alcoholproblem,Chief Gonzales,du könntest dich wenigstens bemühen.,1.6,2
+31,Alcoholproblem,Gary Price,"Das war eine einmalige Sache, Gonzales.",1.7,2.1
+32,Alcoholproblem,Gary Price,Warum kannst du es nicht einfach sein lassen?,1.8,
+33,Alcoholproblem,Chief Gonzales,"Weil es nicht richtig ist. Du hast deine Pflicht zu erfüllen, Price.",3.45,
+34,Alcoholproblem,Chief Gonzales,Du kannst nicht betrunken zur Arbeit kommen,1.8,
+35,Alcoholproblem,Chief Gonzales,"und erwarten, dass alles okay sein wird.",1.8,
+36,Alcoholproblem,Gary Price,"Hör' zu, Ich-",1.5,
+37,Alcoholproblem,Chief Gonzales,Ich hätte dich umgehend rauswerfen müssen.,2.4,
+38,Alcoholproblem,Chief Gonzales,"Aber ich respektiere dich, Price.",2.15,
+39,Alcoholproblem,Chief Gonzales,Du bist ein guter Inspektor.,1.7,
+40,Alcoholproblem,Chief Gonzales,"Also bitte, bring mich nicht dazu meine Entscheidung zu bereuen.",3,
+41,Alcoholproblem,Gary Price,"Alles klar, schon gut. Lass mich einfach meine Arbeit machen.",4,
+42,Alcoholproblem,Gary Price,*Legt auf*,1.6,2
+43,Autopsyreport,Gary Price,*Hebt den Anruf ab*,1.5,2.35
+44,Autopsyreport,Gary Price,"Hallo, was gibt's, Liebling?",1.7,1.6
+45,Autopsyreport,Chief Gonzales,Pass auf was du sagst!,1.28,1.46
+46,Autopsyreport,Chief Gonzales,"Du bewegst dich auf sehr dünnem Eis, Price.",1.59,2.05
+47,Autopsyreport,Chief Gonzales,"Wie auch immer, die Autopsieberichte sind hier.",3.2,3.2
+48,Autopsyreport,Chief Gonzales,Hörst du zu?,1.47,1.37
+49,Autopsyreport,Gary Price,"Klar, schieß' los.",1.5,1.62
+50,Autopsyreport,Chief Gonzales,Hills Körper war von Kopf bis Fuß in Benzin getränkt.,3.51,4.2
+51,Autopsyreport,Chief Gonzales,"Wir wissen, dass er lebendig verbrannt wurde.",2,1.77
+52,Autopsyreport,Chief Gonzales,In seiner Lunge wurde Kohlenmonoxid gefunden.,2.88,2.8
+53,Autopsyreport,Chief Gonzales,Unsere Forensiker haben eine Kopfwunde entdeckt.,2.8,2.86
+54,Autopsyreport,Chief Gonzales,Durch sie hat er vermutlich sein Bewusstsein verloren.,2.7,3.05
+55,Autopsyreport,Chief Gonzales,"Okay, sonst noch etwas?",2.8,2.98
+56,Autopsyreport,Gary Price,Hill hatte Spuren von Antidepressiva in seinem Blutkreislauf.,3.7,3.63
+57,Autopsyreport,Gary Price,Gut zu wissen. Was hat er zuletzt konsumiert?,3,4.15
+58,Autopsyreport,Gary Price,Nichts Besonderes. Lasagne und Kaffee.,3.02,3.2
+59,Autopsyreport,Chief Gonzales,"Interessant. Nagut, dann mach' ich besser mal weiter hier.",3,2.9
+60,Autopsyreport,Gary Price,Verbrechen aufklären und so.,1.7,1.57
+61,Autopsyreport,Chief Gonzales,"Ja, das will ich auch hoffen.",1.8,1.03
+62,Autopsyreport,Gary Price,*Legt auf*,1.2,2
+63,Gasoline Can,Gary Price,Ein Benzinkanister… Er ist beinahe leer.,1.7,2
+64,Liberty Cap,Gary Price,Hmm… Ein paar Pilze...,1.7,2
+65,Axe,Gary Price,Eine scharfe Axt.,1.7,2
+66,Binoculars,Gary Price,"Ich frage mich, was er wohl damit beobachtet hat.",1.7,2
+67,Logbook,Gary Price,"Hm… Mike hat alles aufgeschrieben, was er beobachtet hat.",1.7,2
+68,Matches,Gary Price,Hm… Warum liegen hier Streichhölzer?,1.7,2
+69,Newspaper,Gary Price,Scheint so als hätte jemand die heutige Zeitung hier vergessen.,1.7,2
+70,Millikan Way,Gary Price,Millikan Weg… wohl eher kann-absolut-nicht-dorthin-gehen-Weg.,1.7,2
+71,Tualatin Hills,Gary Price,Tualatin Hills. Das ist der Tatort von dem Bezirksinspektor Gonzales heute Morgen gesprochen hat.,1.7,2
+72,Fog,Gary Price,"Wow, ganz schön viel Nebel. Ich kann kaum etwas sehen.",1.7,2
+73,Watchtower,Gary Price,"Also, der Wachtturm in Firewatch war deutlich größer.",1.7,2
+74,Endwall,Gary Price,Ich werde mich hier noch verlaufen. Ich geh' besser wieder zum Weg zurück.,1.7,2
+75,Sidewall,Gary Price,"Ich glaube wirklich nicht, dass hier draußen irgendetwas Bedeutendes zu finden sein wird.",1.7,2
+76,Startwall,Gary Price,Ich kann jetzt noch nicht nach Hause gehen. Das ist meine letzte Chance.,1.7,2
+77,Antidepressants,Gary Price,"Ich frage mich, warum das Opfer Antidepressiva genommen hat.",1.7,2
+78,Vase,Gary Price,Wodurch ist die Vase zerbrochen? Warum liegt sie noch immer hier? Hoffentlich vergeude ich hiermit nicht meine Zeit.,1.7,2
+79,Cytoxan,Gary Price,"Cytoxan, ist das nicht irgendeine Chemotherapie-Tablette?",1.7,2
+80,Coffee Mugs,Gary Price,Ich glaube diese Kaffeetassen sind vor kurzem benutzt worden.,1.7,2
+81,Key,Gary Price,"Na sieh mal einer an, wen haben wir denn da? Einen Schlüssel.",1.7,2
+82,Yearbook,Gary Price,Tja… Ich bin mir nicht sicher ob Mike einer von den beliebten Kindern war.,1.7,2
+83,Action Figure,Gary Price,Eine Action-Figur… Das ist ein wenig seltsam.,1.7,2
+84,Crumpled Invitation,Gary Price,Sieht nicht so aus als hätte Mike vorgehabt hinzugehen.,1.7,2
+85,Mysterious Password,Gary Price,Könnte das etwa… ein geheimes Passwort sein?,1.7,2
+86,Business Card,Gary Price,Sieht nacht der Visitenkarte von Mikes Therapeut  aus.,1.7,2
+87,Calendar,Gary Price,"Ähm Mike, sehr gut.",1.7,2
+88,Map,Gary Price,Eine Karte von Abschnitt C. Die könnte sich später noch als nützlich erweisen.,1.7,2
+89,Broken Action Figure,Gary Price,Mann… Dieses Ding sieht alt aus.,1.7,2
+90,Lunchbox,Gary Price,,1.7,2
+91,Beer,Gary Price,"Ich nehm' mal an ihn wird es nicht stören, wenn ich mir auch eines nehme.",1.7,2
+92,Obituary,Gary Price,Warum hat er sich das aufgehoben?,1.7,2
+93,Lasagna,Gary Price,Mh… Lecker.,1.7,2
+94,Question1,Chief Gonzales,"Hier ist Gary, ich glaube ich habe den Fall gelöst.",2.4,2.7
+95,Question1,Chief Gonzales,"Bist du dir sicher? Wenn du den falschen beschuldigst, gibt es kein Zurück.",5.2,5.5
+96,Question1,Gary Price,"Ja, ich bin mir sicher. Ich weiß, wer Mike Hill umgebracht hat.",3.08,3.38
+97,Question1,Chief Gonzales,"Dann lass mal hören.",1.5,1.8
+98,Question1,Chief Gonzales,Erste Frage: Wie ist Mike gestorben?,3.3,3.6
+99,Question2,Chief Gonzales,Was ist in den Stunden vor seinem Mord passiert?,3.2,3.5
+100,Question3,Chief Gonzales,"Gibt es jemanden, den du verdächtigst?",2.58,2.88
+101,Question4,Chief Gonzales,Was hast du über die Vergangenheit des Opfers herausgefunden?,3.84,4.14
+102,Question5,Chief Gonzales,Ich denke da steckt mehr dahinter. Was hast du über die Vergangenheit des Mörders herausgefunden?,4.88,5.18
+103,Question1reaction,Chief Gonzales,"Ich glaube nicht, dass du hier am richtigen Weg bist.",1.7,2
+104,Question1reaction,Chief Gonzales,"Okay, ich verstehe…",1.7,2
+105,Question1reaction,Chief Gonzales,"Ja, klingt vernünftig.",1.7,2
+106,Question2reaction,Chief Gonzales,Ich bin noch nicht ganz überzeugt…,1.7,2
+107,Question2reaction,Chief Gonzales,Interessant…,1.7,2
+108,Question2reaction,Chief Gonzales,Das ergibt Sinn.,1.7,2
+109,Question3reaction,Chief Gonzales,Das ergibt absolut keinen Sinn. Also gut…,1.7,2
+110,Question3reaction,Chief Gonzales,Hmm… Ich bin nicht voll und ganz davon überzeugt. Also gut…,1.7,2
+111,Question3reaction,Chief Gonzales,Ich verstehe. Also…,1.7,2
+112,Question5reaction,Chief Gonzales,"Den Verbindungen die du heute zeihst mangelt es an Zusammenhang.  Aber gut, komm zum Revier zurück. Wir werden einen genaueren Blick darauf werfen.",1.7,2
+113,Question5reaction,Chief Gonzales,"Ich bin nicht voll und ganz davon überzeugt. Aber gut, komm zum Revier zurück. Wir werden einen genaueren Blick darauf werfen.",1.7,3
+114,Question5reaction,Chief Gonzales,Scheint so als würdest du da etwas auf der Spur sein. Komm zum Revier zurück. Wir werden einen genaueren Blick darauf werfen.,1.7,2
+115,Confession,Jason Parker,"Bitte Inspektor, ich wollte das wirklich nicht tun.",3.4,3.7
+116,Confession,Jason Parker,Ich hatte meine Gründe.,1.4,1.7
+117,Confession,Jason Parker,"Ich meine, klar. Damals in der Schule war ich öfters gemein zu ihm, aber das war nur harmloses Gehänsel.",4.2,4.5
+118,Confession,Jason Parker,Es ist etwas komplett anderes als die Familie zu verlieren.,2.28,2.58
+119,Confession,Jason Parker,"Wissen Sie, ich hab' mich einer Therapie unterzogen. Jahrelang!",3.7,4
+120,Confession,Jason Parker,Ich habe gelernt damit umzugehen. Aber dann… habe ich Krebs bekommen.,4.4,4.7
+121,Confession,Jason Parker,Es war als würde ich für etwas bestraft werden.,1.88,2.18
+122,Confession,Jason Parker,Zumindest hat es sich so angefühlt.,2,2.3
+123,Confession,Jason Parker,"Ich habe über meine Vergangenheit nachgedacht. Auch über den Jungen, den ich damals in der Schule gemobbt habe.",4.08,4.38
+124,Confession,Jason Parker,Ich wollte es wieder gut machen.,2.08,2.38
+125,Confession,Jason Parker,Also habe ich ihn besucht.,1.91,2.21
+126,Confession,Jason Parker,Als er davon angefangen hat wusste ich es sofort.,2.55,2.85
+127,Confession,Jason Parker,"Nach all diesen Jahren habe ich herausgefunden, dass ER es war!",2.28,2.58
+128,Confession,Jason Parker,"Ich hab' einfach die Kontrolle verloren, konnte nicht mehr klar denken.",3.17,3.47
+129,Confession,Jason Parker,Es war als wäre ich in einer anderen Welt.,2.3,2.6
+130,Confession,Jason Parker,Also hab' ich eine Vase genommen und ihn damit geschlagen. Immer und immer wieder.,2.2,2.5
+131,Confession,Jason Parker,…Bis er am Boden gelegen ist.,4.33,4.63
+132,Confession,Jason Parker,"Als ich realisierte, was ich hier gerade getan habe…",3,3.3
+133,Confession,Jason Parker,*Seufz*,1.9,2.2
+134,Confession,Jason Parker,Ich hab' mich entschieden die Beweise zu vernichten.,2.4,2.7
+135,Confession,Jason Parker,Ich habe seinen Körper in den Schuppen getragen und angezündet.,3.2,3.5
+136,Confession,Jason Parker,Ich bereue es jetzt. ,1.29,1.59
+137,Confession,Jason Parker,"Gerade ich sollte nur zu gut wissen, dass der Tod permanent ist…",4.2,4.5
+138,Endreaction0,Chief Gonzales,"Du hast hast heute meine Erwartungen nicht getroffen. Ich bin enttäuscht von dir.
+Hol deine Sachen und entferne alles aus deinem Büro!",1.7,2
+139,Endreaction1,Chief Gonzales,Nun gut… Du hast nicht ins Schwarze getroffen. Aber wenigstens hast du geholfen den Fall zu lösen. Ich werde dir eine weitere Chance geben.,1.7,2
+140,Endreaction2,Chief Gonzales,Gute Arbeit Herr Inspektor Price. Ich sehe Sie morgen bei der Arbeit.,1.7,2
+141,Answeringmachine,,Du hast 3 neue Nachrichten,2.8,3
+142,Answeringmachine,Answering Machine ,*Beep*,1.6,2
+143,Answeringmachine,Susan,Hey Mike. Wie geht es dir?,2,1.86
+,Answeringmachine,Susan," Ich weiß, dass du uns… gesehen hast?",2,2.22
+144,Answeringmachine,Susan,"Ich habe mich nur gefragt, ob wir vielleicht darüber reden könnten.",1.7,1.7
+145,Answeringmachine,Susan,Tu bloß nichts Überstürztes.,1.65,1.5
+146,Answeringmachine,Susan,Bitte.,1.1,1.21
+147,Answeringmachine,Answering Machine ,*Beep*,1.6,2
+148,Answeringmachine,Jason,Hallo Michael!,1.2,1.2
+149,Answeringmachine,Jason,"Ich bin's, Jason - von der Mountainside Highschool.",2.2,2.2
+150,Answeringmachine,Jason,Erinnerst du dich noch an mich?,1.5,1.7
+151,Answeringmachine,Jason,Ist schon ewig her…,1.6,1.64
+152,Answeringmachine,Jason,"Wie auch immer, ich wollte nur mal so sehen wie es dir geht.",2.45,2.72
+153,Answeringmachine,Jason,Vielleicht kann ich ja morgen bei dir vorbeikommen.,2.2,2.1
+154,Answeringmachine,Answering Machine ,*Beep*,1.6,2
+155,Answeringmachine,Susan,Mike. Ich bin's wieder.,2.12,1.62
+156,Answeringmachine,Susan,Es wäre besser wenn du nicht weiter herumschnüffelst.,1.71,1.9
+157,Answeringmachine,Susan,Du würdest sowieso nichts herausfinden.,1.76,1.5
+158,Answeringmachine,Susan,"Behalt' einfach alles für dich, Hill.",1.3,1.11
+159,Answeringmachine,Susan,Es steht einiges auf dem Spiel für mich.,1.7,1.9

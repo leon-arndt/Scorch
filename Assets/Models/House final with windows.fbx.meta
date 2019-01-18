@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: a50a909d51ea25742943c9dfb3fc40da
+timeCreated: 1511275930
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: back_wall
+    100002: chimney
+    100004: door
+    100006: front_wall
+    100008: ground
+    100010: ground_upper
+    100012: //RootNode
+    100014: left_wall
+    100016: pCube247
+    100018: pCube247 1
+    100020: pCube247 2
+    100022: pCube247 3
+    100024: pCube248
+    100026: pCube248 1
+    100028: pCube248 2
+    100030: pCube248 3
+    100032: pCube249
+    100034: pCube249 1
+    100036: pCube249 2
+    100038: pCube249 3
+    100040: pCube250
+    100042: pCube250 1
+    100044: pCube250 2
+    100046: pCube250 3
+    100048: pCube251
+    100050: pCube251 1
+    100052: pCube251 2
+    100054: pCube251 3
+    100056: pCube252
+    100058: pCube252 1
+    100060: pCube252 2
+    100062: pCube252 3
+    100064: pCube253
+    100066: pCube253 1
+    100068: pCube253 2
+    100070: pCube253 3
+    100072: pole_bottom
+    100074: pole_left
+    100076: pole_left_small
+    100078: pole_right
+    100080: pole_right_small
+    100082: right_wall
+    100084: roof
+    100086: roofplate
+    100088: stairs_outside
+    100090: Stone_base_1
+    100092: Stone_base_2
+    100094: Stone_base_3
+    100096: Stone_base_4
+    100098: upstairs_window_1
+    100100: upstairs_window_2
+    100102: wall_bathroom
+    100104: wall_kitchen
+    100106: wall_long
+    100108: wall_upper
+    100110: window
+    100112: window1
+    100114: window2
+    100116: window3
+    100118: window_bathroom
+    400000: back_wall
+    400002: chimney
+    400004: door
+    400006: front_wall
+    400008: ground
+    400010: ground_upper
+    400012: //RootNode
+    400014: left_wall
+    400016: pCube247
+    400018: pCube247 1
+    400020: pCube247 2
+    400022: pCube247 3
+    400024: pCube248
+    400026: pCube248 1
+    400028: pCube248 2
+    400030: pCube248 3
+    400032: pCube249
+    400034: pCube249 1
+    400036: pCube249 2
+    400038: pCube249 3
+    400040: pCube250
+    400042: pCube250 1
+    400044: pCube250 2
+    400046: pCube250 3
+    400048: pCube251
+    400050: pCube251 1
+    400052: pCube251 2
+    400054: pCube251 3
+    400056: pCube252
+    400058: pCube252 1
+    400060: pCube252 2
+    400062: pCube252 3
+    400064: pCube253
+    400066: pCube253 1
+    400068: pCube253 2
+    400070: pCube253 3
+    400072: pole_bottom
+    400074: pole_left
+    400076: pole_left_small
+    400078: pole_right
+    400080: pole_right_small
+    400082: right_wall
+    400084: roof
+    400086: roofplate
+    400088: stairs_outside
+    400090: Stone_base_1
+    400092: Stone_base_2
+    400094: Stone_base_3
+    400096: Stone_base_4
+    400098: upstairs_window_1
+    400100: upstairs_window_2
+    400102: wall_bathroom
+    400104: wall_kitchen
+    400106: wall_long
+    400108: wall_upper
+    400110: window
+    400112: window1
+    400114: window2
+    400116: window3
+    400118: window_bathroom
+    2300000: back_wall
+    2300002: chimney
+    2300004: door
+    2300006: front_wall
+    2300008: ground
+    2300010: ground_upper
+    2300012: left_wall
+    2300014: pCube247
+    2300016: pCube247 1
+    2300018: pCube247 2
+    2300020: pCube247 3
+    2300022: pCube248
+    2300024: pCube248 1
+    2300026: pCube248 2
+    2300028: pCube248 3
+    2300030: pCube249
+    2300032: pCube249 1
+    2300034: pCube249 2
+    2300036: pCube249 3
+    2300038: pCube250
+    2300040: pCube250 1
+    2300042: pCube250 2
+    2300044: pCube250 3
+    2300046: pCube251
+    2300048: pCube251 1
+    2300050: pCube251 2
+    2300052: pCube251 3
+    2300054: pCube252
+    2300056: pCube252 1
+    2300058: pCube252 2
+    2300060: pCube252 3
+    2300062: pCube253
+    2300064: pCube253 1
+    2300066: pCube253 2
+    2300068: pCube253 3
+    2300070: pole_bottom
+    2300072: pole_left
+    2300074: pole_left_small
+    2300076: pole_right
+    2300078: pole_right_small
+    2300080: right_wall
+    2300082: roof
+    2300084: roofplate
+    2300086: stairs_outside
+    2300088: upstairs_window_1
+    2300090: upstairs_window_2
+    2300092: wall_bathroom
+    2300094: wall_kitchen
+    2300096: wall_long
+    2300098: wall_upper
+    2300100: window
+    2300102: window1
+    2300104: window2
+    2300106: window3
+    2300108: window_bathroom
+    3300000: back_wall
+    3300002: chimney
+    3300004: door
+    3300006: front_wall
+    3300008: ground
+    3300010: ground_upper
+    3300012: left_wall
+    3300014: pCube247
+    3300016: pCube247 1
+    3300018: pCube247 2
+    3300020: pCube247 3
+    3300022: pCube248
+    3300024: pCube248 1
+    3300026: pCube248 2
+    3300028: pCube248 3
+    3300030: pCube249
+    3300032: pCube249 1
+    3300034: pCube249 2
+    3300036: pCube249 3
+    3300038: pCube250
+    3300040: pCube250 1
+    3300042: pCube250 2
+    3300044: pCube250 3
+    3300046: pCube251
+    3300048: pCube251 1
+    3300050: pCube251 2
+    3300052: pCube251 3
+    3300054: pCube252
+    3300056: pCube252 1
+    3300058: pCube252 2
+    3300060: pCube252 3
+    3300062: pCube253
+    3300064: pCube253 1
+    3300066: pCube253 2
+    3300068: pCube253 3
+    3300070: pole_bottom
+    3300072: pole_left
+    3300074: pole_left_small
+    3300076: pole_right
+    3300078: pole_right_small
+    3300080: right_wall
+    3300082: roof
+    3300084: roofplate
+    3300086: stairs_outside
+    3300088: upstairs_window_1
+    3300090: upstairs_window_2
+    3300092: wall_bathroom
+    3300094: wall_kitchen
+    3300096: wall_long
+    3300098: wall_upper
+    3300100: window
+    3300102: window1
+    3300104: window2
+    3300106: window3
+    3300108: window_bathroom
+    4300000: roofplate
+    4300002: roof
+    4300004: ground
+    4300006: window
+    4300008: pole_left
+    4300010: pole_right
+    4300012: ground_upper
+    4300014: wall_upper
+    4300016: wall_bathroom
+    4300018: wall_long
+    4300020: wall_kitchen
+    4300022: back_wall
+    4300024: front_wall
+    4300026: left_wall
+    4300028: right_wall
+    4300030: door
+    4300032: chimney
+    4300034: pole_right_small
+    4300036: pole_left_small
+    4300038: pole_bottom
+    4300040: stairs_outside
+    4300042: pCube253
+    4300044: pCube252
+    4300046: pCube251
+    4300048: pCube249
+    4300050: pCube248
+    4300052: pCube247
+    4300054: pCube250
+    4300056: pCube253
+    4300058: pCube252
+    4300060: pCube251
+    4300062: pCube249
+    4300064: pCube248
+    4300066: pCube247
+    4300068: pCube250
+    4300070: pCube253
+    4300072: pCube252
+    4300074: pCube251
+    4300076: pCube249
+    4300078: pCube248
+    4300080: pCube247
+    4300082: pCube250
+    4300084: pCube253
+    4300086: pCube252
+    4300088: pCube251
+    4300090: pCube249
+    4300092: pCube248
+    4300094: pCube247
+    4300096: pCube250
+    4300098: window1
+    4300100: window2
+    4300102: window3
+    4300104: window_bathroom
+    4300106: upstairs_window_1
+    4300108: upstairs_window_2
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 02a0090d7aeeda24b88f2106fe2c9834, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 120
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

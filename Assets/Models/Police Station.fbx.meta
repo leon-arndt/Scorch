@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 005fae9f46654534fb01b34e4cde1d3d
+timeCreated: 1512670383
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ceiling
+    100002: Door
+    100004: door_inside
+    100006: doorhinge_bottom
+    100008: doorhinge_top
+    100010: frame_inside_bathroom
+    100012: ground
+    100014: middle
+    100016: pCube2
+    100018: pCylinder8
+    100020: pCylinder9
+    100022: //RootNode
+    100024: polySurface17
+    100026: polySurface18
+    100028: table
+    100030: table_foot_1
+    100032: table_foot_2
+    100034: table_foot_3
+    100036: table_foot_4
+    100038: wall_back
+    100040: wall_door
+    100042: wall_right
+    100044: wall_window
+    100046: window
+    400000: ceiling
+    400002: Door
+    400004: door_inside
+    400006: doorhinge_bottom
+    400008: doorhinge_top
+    400010: frame_inside_bathroom
+    400012: ground
+    400014: middle
+    400016: pCube2
+    400018: pCylinder8
+    400020: pCylinder9
+    400022: //RootNode
+    400024: polySurface17
+    400026: polySurface18
+    400028: table
+    400030: table_foot_1
+    400032: table_foot_2
+    400034: table_foot_3
+    400036: table_foot_4
+    400038: wall_back
+    400040: wall_door
+    400042: wall_right
+    400044: wall_window
+    400046: window
+    2300000: ceiling
+    2300002: door_inside
+    2300004: doorhinge_bottom
+    2300006: doorhinge_top
+    2300008: frame_inside_bathroom
+    2300010: ground
+    2300012: middle
+    2300014: pCube2
+    2300016: pCylinder8
+    2300018: pCylinder9
+    2300020: polySurface17
+    2300022: polySurface18
+    2300024: table
+    2300026: table_foot_1
+    2300028: table_foot_2
+    2300030: table_foot_3
+    2300032: table_foot_4
+    2300034: wall_back
+    2300036: wall_door
+    2300038: wall_right
+    2300040: wall_window
+    2300042: window
+    3300000: ceiling
+    3300002: door_inside
+    3300004: doorhinge_bottom
+    3300006: doorhinge_top
+    3300008: frame_inside_bathroom
+    3300010: ground
+    3300012: middle
+    3300014: pCube2
+    3300016: pCylinder8
+    3300018: pCylinder9
+    3300020: polySurface17
+    3300022: polySurface18
+    3300024: table
+    3300026: table_foot_1
+    3300028: table_foot_2
+    3300030: table_foot_3
+    3300032: table_foot_4
+    3300034: wall_back
+    3300036: wall_door
+    3300038: wall_right
+    3300040: wall_window
+    3300042: window
+    4300000: polySurface18
+    4300002: frame_inside_bathroom
+    4300004: door_inside
+    4300006: polySurface17
+    4300008: middle
+    4300010: doorhinge_top
+    4300012: doorhinge_bottom
+    4300014: wall_right
+    4300016: wall_window
+    4300018: wall_door
+    4300020: wall_back
+    4300022: window
+    4300024: ground
+    4300026: ceiling
+    4300028: table
+    4300030: table_foot_1
+    4300032: table_foot_2
+    4300034: table_foot_3
+    4300036: table_foot_4
+    4300038: pCylinder8
+    4300040: pCube2
+    4300042: pCylinder9
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 02a0090d7aeeda24b88f2106fe2c9834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 0f7a1a83b35fe2a479e3f979824e6c8a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 120
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

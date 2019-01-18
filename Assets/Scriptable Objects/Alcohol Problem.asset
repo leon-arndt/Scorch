@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af404d8898010741bdea24718f0ff6f, type: 3}
+  m_Name: Alcohol Problem
+  m_EditorClassIdentifier: 
+  resourceName: Emails
+  content: Hello Mr Price, \n Don't forget to check Mike's emails to see if there
+    is anything of interest found there.\n Initial investigations couldn't find the
+    password but maybe you could give it a shot. \n \nGonzales
+  test: 0

@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 82073cec95c61e248adbda21865f7f18
+timeCreated: 1512400208
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: beercan1
+    100002: beercan2
+    100004: beercan3
+    100006: beercan4
+    100008: beercan5
+    100010: beercan6
+    100012: door_shelf
+    100014: freezerdoor
+    100016: fridegdoor
+    100018: Fridge
+    100020: fridge
+    100022: //RootNode
+    100024: fridge_drawers
+    100026: jam_glass
+    100028: jam_glass_2
+    100030: magnet1
+    100032: magnet2
+    100034: magnet3
+    100036: magnet4
+    100038: magnet5
+    100040: milkgallon1
+    100042: milkgallon2
+    100044: note
+    100046: note1
+    100048: pCube267
+    100050: pCube268
+    100052: pizza1
+    100054: pizza2
+    100056: sauce_glass
+    100058: sauce_glass_2
+    400000: beercan1
+    400002: beercan2
+    400004: beercan3
+    400006: beercan4
+    400008: beercan5
+    400010: beercan6
+    400012: door_shelf
+    400014: freezerdoor
+    400016: fridegdoor
+    400018: Fridge
+    400020: fridge
+    400022: //RootNode
+    400024: fridge_drawers
+    400026: jam_glass
+    400028: jam_glass_2
+    400030: magnet1
+    400032: magnet2
+    400034: magnet3
+    400036: magnet4
+    400038: magnet5
+    400040: milkgallon1
+    400042: milkgallon2
+    400044: note
+    400046: note1
+    400048: pCube267
+    400050: pCube268
+    400052: pizza1
+    400054: pizza2
+    400056: sauce_glass
+    400058: sauce_glass_2
+    2300000: beercan1
+    2300002: beercan2
+    2300004: beercan3
+    2300006: beercan4
+    2300008: beercan5
+    2300010: beercan6
+    2300012: door_shelf
+    2300014: freezerdoor
+    2300016: fridegdoor
+    2300018: fridge
+    2300020: fridge_drawers
+    2300022: jam_glass
+    2300024: jam_glass_2
+    2300026: magnet1
+    2300028: magnet2
+    2300030: magnet3
+    2300032: magnet4
+    2300034: magnet5
+    2300036: milkgallon1
+    2300038: milkgallon2
+    2300040: note
+    2300042: note1
+    2300044: pCube267
+    2300046: pCube268
+    2300048: pizza1
+    2300050: pizza2
+    2300052: sauce_glass
+    2300054: sauce_glass_2
+    3300000: beercan1
+    3300002: beercan2
+    3300004: beercan3
+    3300006: beercan4
+    3300008: beercan5
+    3300010: beercan6
+    3300012: door_shelf
+    3300014: freezerdoor
+    3300016: fridegdoor
+    3300018: fridge
+    3300020: fridge_drawers
+    3300022: jam_glass
+    3300024: jam_glass_2
+    3300026: magnet1
+    3300028: magnet2
+    3300030: magnet3
+    3300032: magnet4
+    3300034: magnet5
+    3300036: milkgallon1
+    3300038: milkgallon2
+    3300040: note
+    3300042: note1
+    3300044: pCube267
+    3300046: pCube268
+    3300048: pizza1
+    3300050: pizza2
+    3300052: sauce_glass
+    3300054: sauce_glass_2
+    4300000: fridge
+    4300002: freezerdoor
+    4300004: note
+    4300006: magnet4
+    4300008: magnet5
+    4300010: fridegdoor
+    4300012: milkgallon1
+    4300014: milkgallon2
+    4300016: note1
+    4300018: door_shelf
+    4300020: magnet1
+    4300022: magnet3
+    4300024: magnet2
+    4300026: jam_glass
+    4300028: sauce_glass
+    4300030: sauce_glass_2
+    4300032: pizza2
+    4300034: pizza1
+    4300036: beercan1
+    4300038: beercan2
+    4300040: beercan3
+    4300042: beercan4
+    4300044: beercan5
+    4300046: beercan6
+    4300048: jam_glass_2
+    4300050: fridge_drawers
+    4300052: pCube267
+    4300054: pCube268
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 02a0090d7aeeda24b88f2106fe2c9834, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 120
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
