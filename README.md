@@ -2,12 +2,16 @@
 
 ## :package: Info
 Made in Unity (Version 2017.2.0f3)
+
 This project may not be republished for commercial use.
 
 ## :hammer: Credits
 Leon Arndt - Code and Music
+
 Huang Chen - Code and Generalist
+
 Lea Bormann - Environment and Lighting
+
 Lauritz Vogelsang - 2D Art and animation
 
 ## :closed_book: Game Description from Steam
