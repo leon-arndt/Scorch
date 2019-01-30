@@ -50,13 +50,18 @@ public class OptionsMenuController : MonoBehaviour
         volumeMusicSlider.value = PlayerPrefs.GetFloat("VolumeMusic", 50f);
         volumeAtmoSlider.value = PlayerPrefs.GetFloat("VolumeAtmo", 50f);
         fovSlider.value = PlayerPrefs.GetFloat("FOV", 60f);
-        mouseSensSlider.value = PlayerPrefs.GetFloat("MouseSens", 2f);
+
+        float mouseSens = PlayerPrefs.GetFloat("MouseSens", 2f);
+        mouseSens = Mathf.Round(100 * mouseSens) / 100;
+        mouseSensSlider.value = mouseSens;
 
         //Subtitle Toggle
         subtitles.isOn = subtitleVisibility;
 
         fovValueText.text = fovSlider.value.ToString();
-        mouseSensText.text = mouseSensSlider.value.ToString();
+
+        string mouseSensString = mouseSensSlider.value.ToString();
+        mouseSensText.text = AppendToNPlaces(mouseSensString, 4);
 
         Camera.main.fieldOfView = fovSlider.value;
 
@@ -139,7 +144,9 @@ public class OptionsMenuController : MonoBehaviour
         }
         else
         {
-            mouseSensText.text = newValue.ToString();
+            newValue = Mathf.Round(newValue * 100f) / 100f;
+            string mouseSensString = newValue.ToString();
+            mouseSensText.text = AppendToNPlaces(mouseSensString, 4);
         }
 
         Debug.Log("I belive the new mouse sens to be " + newValue.ToString());
@@ -219,4 +226,14 @@ public class OptionsMenuController : MonoBehaviour
     }
 
 
+    //Appends a zeros to N places if shorter than n
+    public string AppendToNPlaces(string str, int n)
+    {
+        while (str.Length < n)
+        {
+            str = str + "0";
+        }
+
+        return str;
+    }
 }
