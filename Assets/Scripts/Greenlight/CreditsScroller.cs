@@ -17,6 +17,9 @@ public class CreditsScroller : MonoBehaviour {
 
     [SerializeField]
     private float scrollSpeed = 3.0f;
+    private float distanceMoved = 0f;
+
+    private bool continueTextVisible = false;
 
     // Use this for initialization
     private void Start()
@@ -27,9 +30,11 @@ public class CreditsScroller : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
-        if (credits.GetComponent<RectTransform>().sizeDelta.y < 5800f)
-        {
             credits.transform.Translate(scrollSpeed * Vector3.up * Time.deltaTime);
+            distanceMoved += scrollSpeed * Time.deltaTime;
+        if (distanceMoved > 3000 & !continueTextVisible)
+        {
+            ShowContinueText();
         }
 
 
@@ -44,7 +49,7 @@ public class CreditsScroller : MonoBehaviour {
             }
 
 
-            //Go to the credits
+            //Go to the main menu
             SceneManager.LoadScene(0);
         }
 	}
@@ -52,5 +57,7 @@ public class CreditsScroller : MonoBehaviour {
     private void ShowContinueText()
     {
         continueText.gameObject.SetActive(true);
+        continueTextVisible = true;
+        Debug.Log("continue text should now be visible");
     }
 }
