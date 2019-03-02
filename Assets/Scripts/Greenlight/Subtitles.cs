@@ -6,6 +6,8 @@ using System;
 
 public class Subtitles : MonoBehaviour
 {
+    public static Subtitles Instance;
+    
     //Created with CSV2Table asset from asset store -> Gets Data from CSV Files
     #region
     public class Row
@@ -30,12 +32,16 @@ public class Subtitles : MonoBehaviour
     public TextAsset engSub;
     [SerializeField]
     public TextAsset gerSub;
+    [SerializeField]
+    public TextAsset spaSub;
 
     private int m_convertlanguage;
     string dialoguename;
 
     private void Start()
     {
+        Instance = this;
+
         ids = new List<string>();
         names = new List<string>();
         sentences = new List<string>();
@@ -44,7 +50,6 @@ public class Subtitles : MonoBehaviour
 
         m_convertlanguage = PlayerPrefs.GetInt("language"); //Gets the right Language from Playerprefs and loads the according language
         SetLanguage(m_convertlanguage); // For loading according language
-
     }
 
     //Code created with CSV2Table asset from asset store -> Gets Data from CSV Files
@@ -175,8 +180,17 @@ public class Subtitles : MonoBehaviour
     public void SetLanguage(int language) // 0= none; default english; 1= english; 2 = german // more can be added
     {
         if (language == 1)
-        { Load(engSub); }
-        else if (language == 2) { Load(gerSub); }
+        {
+            Load(engSub);
+        }
+        else if (language == 2)
+        {
+            Load(gerSub);
+        }
+        else if (language == 3)
+        {
+            Load(spaSub);
+        }
         else
         {
             Load(engSub);

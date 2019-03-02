@@ -209,12 +209,18 @@ public class OptionsMenuController : MonoBehaviour
             case 2:
                 subtitleLanguage = "german";
                 break;
+            case 3:
+                subtitleLanguage = "spanish";
+                break;
             default:
                 subtitleLanguage = "none";
                 break;
         }
 
-        // Debug.Log("I believe the language to be  " + subtitleLanguage);
+        //if (Subtitles.Instance != null)
+        //{
+        //    Subtitles.Instance.SetLanguage(language);
+        //}
     }
 
 
