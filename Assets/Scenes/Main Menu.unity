@@ -732,7 +732,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 81920302}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 12601acaf9af72343b85bace4eb57570, type: 3}
   m_Name: 
@@ -3039,13 +3039,13 @@ MonoBehaviour:
   m_Options:
     m_Options:
     - m_Text: None
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 21300000, guid: e963e43b5d23460438ee35614c22d574, type: 3}
     - m_Text: English
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 21300000, guid: f3cb4abffe51cae4da7c5e65bc039948, type: 3}
     - m_Text: German
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 21300000, guid: d68e0370335288f4aaaec6404c41d5e0, type: 3}
     - m_Text: Spanish
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 21300000, guid: 61cc3ab0e3ba0bb4692d79088ae4b107, type: 3}
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:

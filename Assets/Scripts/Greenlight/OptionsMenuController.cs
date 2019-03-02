@@ -57,6 +57,8 @@ public class OptionsMenuController : MonoBehaviour
 
         //Subtitle Toggle
         subtitles.isOn = subtitleVisibility;
+        subtitlesDropdown.value = PlayerPrefs.GetInt("language", 0);
+        Debug.Log("language looks like" + subtitlesDropdown.value);
 
         fovValueText.text = fovSlider.value.ToString();
 
@@ -64,7 +66,6 @@ public class OptionsMenuController : MonoBehaviour
         mouseSensText.text = AppendToNPlaces(mouseSensString, 4);
 
         Camera.main.fieldOfView = fovSlider.value;
-
     }
 
 
@@ -197,6 +198,7 @@ public class OptionsMenuController : MonoBehaviour
     {
         int language = subtitlesDropdown.value;
         PlayerPrefs.SetInt("language", language); //0 = none, 1 = english, etc
+        Debug.Log("language is now" + language);
 
         switch (language)
         {
