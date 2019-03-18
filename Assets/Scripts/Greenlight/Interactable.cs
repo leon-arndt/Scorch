@@ -61,8 +61,7 @@ public class Interactable : Interactables
     // Use this for initialization
     void Start()
     {
-
-
+        deltaPos = transform.TransformDirection(deltaPos);
         Invoke("Subs", 1f);
         state = true;
         animationIsInProgress = false;
@@ -193,23 +192,26 @@ public class Interactable : Interactables
         }
 
         audioManager.assignInteractionSound(hit, 1);
+        Vector3 startPosition = transform.position;
+        float smoothTime = animationTime;
+        Vector3 velocity = Vector3.zero;
 
-        for (float f = 0f; f <= animationTime; f += Time.fixedDeltaTime) //Time.fixedDeltaTime
+        for (float f = 0f; f <= animationTime; f += Time.deltaTime) //Time.fixedDeltaTime
         {
-            float time = (Time.fixedDeltaTime - 0.004f); //Time.fixedDeltaTime
             animationIsInProgress = true;
             if (!state)
             {
-                transform.Translate(deltaPos / (1.0f / time));
+                //transform.Translate(deltaPos / (1.0f / time));
+                transform.position = Vector3.SmoothDamp(transform.position, startPosition + deltaPos, ref velocity, smoothTime);
             }
             else if (state)
             {
-                transform.Translate(-deltaPos / (1.0f / time));
+                //transform.Translate(-deltaPos / (1.0f / time));
+                transform.position = Vector3.SmoothDamp(transform.position, startPosition - deltaPos, ref velocity, smoothTime);
             }
 
             yield return null;
             animationIsInProgress = false;
-
         }
 
         if (!isALightSwitch && state)
