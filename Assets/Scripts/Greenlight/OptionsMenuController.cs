@@ -18,9 +18,11 @@ public class OptionsMenuController : MonoBehaviour
     [SerializeField]
     Dropdown subtitlesDropdown;
     [SerializeField]
-    Toggle subtitles;
+    Toggle subtitles, invertVerticalToggle;
     [SerializeField]
     Text subtitleText;
+
+
     private bool language;
 
     private bool inGame;
@@ -66,8 +68,28 @@ public class OptionsMenuController : MonoBehaviour
         mouseSensText.text = AppendToNPlaces(mouseSensString, 4);
 
         Camera.main.fieldOfView = fovSlider.value;
+
+
+        // Vertical Toggle
+        invertVerticalToggle.onValueChanged.AddListener(delegate { InvertVerticalToggle(); });
+
+        invertVerticalToggle.isOn = PlayerPrefs.GetInt("InvertVertical") == 1;
+
+
     }
 
+    //Vertical Toggle
+    void InvertVerticalToggle()
+    {
+        FirstPersonController firstPersonController = FindObjectOfType<FirstPersonController>();
+        int boolInt = invertVerticalToggle.isOn ? 1 : 0;
+        PlayerPrefs.SetInt("InvertVertical", boolInt);
+
+        if (firstPersonController != null)
+        {
+            firstPersonController.m_MouseLook.SetVerticalMouseInversion(invertVerticalToggle.isOn);
+        }
+    }
 
     public void SetMasterVolume(float newValue)
     {

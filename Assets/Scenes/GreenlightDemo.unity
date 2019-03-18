@@ -3897,7 +3897,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Debug Mode
+  m_Text: 'Mouse Invert
+
+    (vertical)'
 --- !u!222 &76403651
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4798,8 +4800,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 99140974}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 459, y: 202, z: 0}
-  m_LocalScale: {x: 0.478125, y: 0.478125, z: 0.478125}
+  m_LocalPosition: {x: 269, y: 319, z: 0}
+  m_LocalScale: {x: 0.28020832, y: 0.28020832, z: 0.28020832}
   m_Children:
   - {fileID: 1516190984}
   - {fileID: 1517350645}
@@ -8197,8 +8199,9 @@ MonoBehaviour:
   fovValueText: {fileID: 292064844}
   mouseSensText: {fileID: 115840511}
   masterMixer: {fileID: 24100000, guid: 129d94810c99c6e42836aede700a501b, type: 2}
-  subtitlesDropdown: {fileID: 0}
+  subtitlesDropdown: {fileID: 1334928555}
   subtitles: {fileID: 223052661}
+  invertVerticalToggle: {fileID: 2048821505}
   subtitleText: {fileID: 669820739}
 --- !u!4 &184242615
 Transform:
@@ -10659,7 +10662,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 234935566}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 168.48318, z: 0}
+  m_LocalPosition: {x: 0, y: 884.43823, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2405042}
@@ -11373,7 +11376,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 253354982}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 522.4835, z: 0}
+  m_LocalPosition: {x: 0, y: 1238.4386, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1506212968}
@@ -15457,7 +15460,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 382718986}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.9000244, y: 305.6831, z: 0}
+  m_LocalPosition: {x: 7.9000244, y: 1021.6382, z: 0}
   m_LocalScale: {x: 0.8877212, y: 1, z: 1}
   m_Children:
   - {fileID: 579932767}
@@ -22340,7 +22343,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 558717343}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -522.48364, z: 0}
+  m_LocalPosition: {x: 0, y: -1238.4387, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1506212968}
@@ -26794,7 +26797,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 669820738}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 15.199951, y: -335.78363, z: 0}
+  m_LocalPosition: {x: 15.199951, y: -1051.7388, z: 0}
   m_LocalScale: {x: 0.5266843, y: 0.46256226, z: 1}
   m_Children: []
   m_Father: {fileID: 228064807}
@@ -50030,7 +50033,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1244807222}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 168.48364, z: 0}
+  m_LocalPosition: {x: 0, y: 884.4387, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2405042}
@@ -51169,7 +51172,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1270274759}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -832, y: -294.48364, z: 0}
+  m_LocalPosition: {x: -832.00006, y: -1010.4387, z: 0}
   m_LocalScale: {x: 1.0000075, y: 1.0000075, z: 1.0000075}
   m_Children:
   - {fileID: 921141311}
@@ -54201,7 +54204,7 @@ MonoBehaviour:
   FogTransitionSize: 5
   MaxLightDistance: 128
   AboveFogPercent: 0.1
-  Offset: {x: 26538.965, y: 26538.965, z: 0}
+  Offset: {x: 26577.064, y: 26577.064, z: 0}
 --- !u!1 &1349592177
 GameObject:
   m_ObjectHideFlags: 0
@@ -64582,7 +64585,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1602770931}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 12601acaf9af72343b85bace4eb57570, type: 3}
   m_Name: 
@@ -64653,10 +64656,10 @@ MonoBehaviour:
   MapToLDR: 0
   RemoveColorBanding: 1
   MatrixVP:
-    e00: 0.14249635
+    e00: 0.3000813
     e01: 0
-    e02: 0.9648924
-    e03: -119.278755
+    e02: 2.031955
+    e03: -251.18767
     e10: -0
     e11: -1.7320508
     e12: 0
@@ -64670,10 +64673,10 @@ MonoBehaviour:
     e32: 0.14609653
     e33: 72.07688
   LastMatrixVP:
-    e00: 0.14249635
+    e00: 0.3000813
     e01: 0
-    e02: 0.9648924
-    e03: -119.278755
+    e02: 2.031955
+    e03: -251.18767
     e10: 0
     e11: 1.7320508
     e12: 0
@@ -83865,7 +83868,7 @@ GameObject:
   - component: {fileID: 2048821504}
   - component: {fileID: 2048821505}
   m_Layer: 5
-  m_Name: Debug Toggle
+  m_Name: Invert Mouse Toggle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

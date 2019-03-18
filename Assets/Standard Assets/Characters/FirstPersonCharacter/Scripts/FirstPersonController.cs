@@ -62,7 +62,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
         //Added
         public bool crouching = false;
-        private float initWalkingspeed; 
+        private float initWalkingspeed;
+
 
 
         // Use this for initialization
@@ -81,7 +82,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
             initWalkingspeed = m_WalkSpeed;
 
-
+        
         }
 
 
@@ -97,8 +98,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
             }
             else { m_WalkSpeed = initWalkingspeed; }
             RotateView();
-         
-          
+
+
 
             // the jump state needs to read here to make sure it is not missed
             if (!m_Jump)
@@ -250,9 +251,13 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
         private void GetInput(out float speed)
         {
+
+
             // Read input
             float horizontal = CrossPlatformInputManager.GetAxis("Horizontal");
+
             float vertical = CrossPlatformInputManager.GetAxis("Vertical");
+         
 
             bool waswalking = m_IsWalking;
 
@@ -304,5 +309,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
             }
             body.AddForceAtPosition(m_CharacterController.velocity * 0.1f, hit.point, ForceMode.Impulse);
         }
+
+     
     }
 }

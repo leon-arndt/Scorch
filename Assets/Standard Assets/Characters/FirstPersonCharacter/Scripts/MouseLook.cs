@@ -21,10 +21,16 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private Quaternion m_CameraTargetRot;
         private bool m_cursorIsLocked = true;
 
+
+        private bool invertVertical = false;
+        
+
         public void Init(Transform character, Transform camera)
         {
             m_CharacterTargetRot = character.localRotation;
             m_CameraTargetRot = camera.localRotation;
+
+            invertVertical = PlayerPrefs.GetInt("InvertVertical") == 1;
         }
 
 
@@ -32,6 +38,11 @@ namespace UnityStandardAssets.Characters.FirstPerson
         {
             float yRot = CrossPlatformInputManager.GetAxis("Mouse X") * XSensitivity;
             float xRot = CrossPlatformInputManager.GetAxis("Mouse Y") * YSensitivity;
+
+            if (invertVertical)
+            {
+                xRot *= -1;
+            }
 
             m_CharacterTargetRot *= Quaternion.Euler (0f, yRot, 0f);
             m_CameraTargetRot *= Quaternion.Euler (-xRot, 0f, 0f);
@@ -109,6 +120,10 @@ namespace UnityStandardAssets.Characters.FirstPerson
             q.x = Mathf.Tan (0.5f * Mathf.Deg2Rad * angleX);
 
             return q;
+        }
+        public void SetVerticalMouseInversion(bool inversionToggle)
+        {
+            invertVertical = inversionToggle;
         }
 
     }
