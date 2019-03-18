@@ -81,68 +81,11 @@ public class Interactable : Interactables
         animationTime /= multiplier;
         deltaRot *= multiplier;
         deltaPos *= multiplier;
-
-        //1 / 60 = 0.016
-        //animationTime /= Time.deltaTime / 0.0166f;
-        //deltaRot *= Time.deltaTime / 0.0166f;
-        //deltaPos *= Time.deltaTime / 0.0166f;
-
     }
 
     public void Interact(RaycastHit hit)
     {
         StartCoroutine(InteractCoroutine(hit));
-        /*if (firstTime)
-        {
-            if (Time.deltaTime > 0.0322f)
-            {
-                animationTime *= 0.5f;
-                deltaRot *= 2;
-                deltaPos *= 2;
-            }
-
-            if (Time.deltaTime > 0.0644f)
-            {
-                animationTime *= 0.25f;
-                deltaRot *= 4;
-                deltaPos *= 4;
-            }
-
-            firstTime = false;
-        }*/
-
-
-        //Move to the new coroutine
-        /*if (requiredInteractable == null || playerController.GetInteractableList().Contains(requiredInteractable))
-        {//
-            switch (interactionType)
-            {
-                case InteractionType.OpenAndClose:             
-                    OpenAndClose(hit);  
-                    break;
-                case InteractionType.Pickup:
-                    PickUp();
-                    break;
-                  case InteractionType.LightSwitch:
-                      FlipLightswitch(hit);
-                      break;
-                case InteractionType.AnsweringMachine:
-                    InteractAnsweringMachine();
-                    break;
-                case InteractionType.Computer:
-                    InteractComputer();
-                    break;
-            }
-            /*if (isALightSwitch)
-            {
-                FlipLightswitch(hit);
-            }//was an end multi here
-
-        }
-        else
-        { //locked
-            uicontroller.ShowEvidenceText(interactableName, "seems to be locked");
-        }*/
     }
 
     public IEnumerator InteractCoroutine(RaycastHit hit)
@@ -180,11 +123,6 @@ public class Interactable : Interactables
                     break;
 
             }
-            /*if (isALightSwitch)
-            {
-                FlipLightswitch(hit);
-            }//was an end multi here*/
-
         }
         else
         { //locked
@@ -240,21 +178,15 @@ public class Interactable : Interactables
         if (targetRenderer != null)
         {
             targetRenderer.material = (lightState) ? lightbulbMaterialOn : lightbulbMaterialOff;
-
-            /*       if (lightState)
-            {
-                targetRenderer.material = lightbulbMaterialOn;
-            }
-            else { targetRenderer.material = lightbulbMaterialOff; }*/
         }
 
         audioManager.assignInteractionSound(hit, 2);
 
     }
 
-
+    //Animate the object with translation and rotation
     IEnumerator Animate(RaycastHit hit)
-    { //Animate the object with translation and rotation
+    { 
         if (isALightSwitch)
         { //For objects with animation and Light
             FlipLightswitch(hit);
@@ -268,11 +200,11 @@ public class Interactable : Interactables
             animationIsInProgress = true;
             if (!state)
             {
-                gameObject.transform.Translate(deltaPos / (1.0f / time));
+                transform.Translate(deltaPos / (1.0f / time));
             }
             else if (state)
             {
-                gameObject.transform.Translate(-deltaPos / (1.0f / time));
+                transform.Translate(-deltaPos / (1.0f / time));
             }
 
             yield return null;
