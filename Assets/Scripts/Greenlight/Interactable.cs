@@ -3,14 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using Scorch_SceneObject;
 using System;
-
+/// <summary>
+/// This class is added as a component to objects in the world which are interactables.
+/// There should be different types such as doors and cupboards which can be opened and closed with animations.
+/// There should also be a key which the player can pick up like evidence but which is not shown in the memo board.
+/// </summary>
 public class Interactable : Interactables
 {
-    /* This class is added as a component to objects in the world which are interactables.
-     * There should be different types such as doors and cupboards which can be opened and closed with animations.
-     * There should also be a key which the player can pick up like evidence but which is not shown in the memo board.
-     */
-
     private PlayerController playerController;
     private UIController uicontroller;
 
@@ -47,8 +46,6 @@ public class Interactable : Interactables
     [SerializeField]
     private Interactable requiredInteractable;
 
-
-
     AudioManager audioManager;
 
     AnsweringMachine answeringMachine;
@@ -70,16 +67,6 @@ public class Interactable : Interactables
         answeringMachine = SceneObject.answeringMachine;
         audioManager = FindObjectOfType<AudioManager>();
         //vmanager = Scorch_SceneObject.SceneObject.VManager;
-
-        float framerate = 1f / Time.deltaTime;
-        float multiplier = 60f / framerate;
-        multiplier *= multiplier;
-
-        // Debug.Log("The " + gameObject.name + "'s multiplier is " + multiplier.ToString());
-        //30 fps
-        animationTime /= multiplier;
-        deltaRot *= multiplier;
-        deltaPos *= multiplier;
     }
 
     public void Interact(RaycastHit hit)
@@ -120,7 +107,6 @@ public class Interactable : Interactables
                 case InteractionType.Radio:
                     InteractRadio(hit);
                     break;
-
             }
         }
         else
@@ -161,8 +147,6 @@ public class Interactable : Interactables
                 StartCoroutine(OpenDoorSideways(hit));
             }
         }
-
-
     }
 
     private void FlipLightswitch(RaycastHit hit)
@@ -330,5 +314,4 @@ public class Interactable : Interactables
     {
         return (interactionType == InteractionType.React);
     }
-
 }
